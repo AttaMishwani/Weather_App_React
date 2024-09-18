@@ -1,6 +1,3 @@
-Here is the updated `README.md` without the bold formatting and bullet points:
-
-````markdown
 # 🌤️ Weather App
 
 A simple weather app built using React.js that allows users to search for current weather conditions in any city. The app fetches real-time data from the OpenWeatherMap API and displays essential information like temperature, humidity, and wind speed.
@@ -33,6 +30,7 @@ A simple weather app built using React.js that allows users to search for curren
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    ```
+
 ````
 
 2. Navigate to the project directory:
@@ -69,3 +67,4 @@ GitHub Repository: [Weather App Repo](https://github.com/yourusername/weather-ap
 
 You can use this version in your VS Code and adjust the links as needed.
 ```
+````
