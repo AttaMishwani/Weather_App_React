@@ -20,18 +20,13 @@ A simple weather app built using React.js that allows users to search for curren
 🎨 Tailwind CSS: Used for styling the app.
 🖼️ React Icons: For icons used in the app.
 
-## 📸 Screenshot
-
-![App Preview](./screenshot.png)
-
 ## 📦 Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    ```
-
-````
 
 2. Navigate to the project directory:
    ```bash
@@ -67,4 +62,7 @@ GitHub Repository: [Weather App Repo](https://github.com/yourusername/weather-ap
 
 You can use this version in your VS Code and adjust the links as needed.
 ```
-````
+
+```
+
+```
