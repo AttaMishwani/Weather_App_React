@@ -2,7 +2,7 @@
 
 A simple weather app built using React.js that allows users to search for current weather conditions in any city. The app fetches real-time data from the OpenWeatherMap API and displays essential information like temperature, humidity, and wind speed.
 
-![Weather App Screenshot](./weather_app_screenshot.png)
+![Weather App Screenshot](./screenshot.png)
 
 ## 🚀 Features
 
@@ -22,7 +22,7 @@ A simple weather app built using React.js that allows users to search for curren
 
 ## 📸 Screenshot
 
-![App Preview](./weather_app_screenshot.png)
+![App Preview](./screenshot.png)
 
 ## 📦 Installation
 
