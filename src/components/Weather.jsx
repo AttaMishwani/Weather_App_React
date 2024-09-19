@@ -80,7 +80,7 @@ const Weather = () => {
         />
         <BsSearch
           onClick={() => search(cityNameRef.current.value)}
-          className="cursor-pointer shadow-sm shadow-black bg-white rounded-full text-4xl p-1.5 h-9 w-9 "
+          className="cursor-pointer shadow-sm shadow-black text-black bg-white rounded-full text-4xl p-1.5 h-9 w-9 "
         />
       </div>
       {weatherData ? (
