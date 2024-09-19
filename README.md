@@ -51,8 +51,8 @@ This project uses the [OpenWeatherMap API](https://openweathermap.org/api) to fe
 
 ## 🔗 Links
 
-Live Demo: [Weather App](https://your-live-demo-link.com)
-GitHub Repository: [Weather App Repo](https://github.com/yourusername/weather-app)
+Live Demo: [Weather App](https://attamishwani.github.io/Weather_App_React/)
+GitHub Repository: [Weather App Repo](https://github.com/AttaMishwani/Weather_App_React)
 
 ---
 

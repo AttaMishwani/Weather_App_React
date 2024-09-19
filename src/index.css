@@ -10,8 +10,30 @@
     font-family: "Poppins", system-ui;
 }
 
+
+
+
 .app {
-    min-height: 100vh;
-    background: #e4e1e1;
+    height: 100vh;
+
+    background-image: url('../src/assets/imgs/pixel-art-river-landscape-illustration.jpg');
+
+    background-size: cover;
+    background-position: center;
     display: grid;
+    position: relative;
+
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
 }
