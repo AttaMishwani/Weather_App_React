@@ -73,7 +73,7 @@ const Weather = () => {
         <input
           type="text"
           ref={cityNameRef}
-          className="border-none outline-none rounded-xl pl-3 h-9"
+          className="border-none outline-none text-black rounded-xl pl-3 h-9"
           placeholder="Search"
           name=""
           id=""
